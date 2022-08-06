@@ -14,6 +14,7 @@
   <h3>Soft Skills 🧠</h3>
   <p> -  Tenho o hábito e gosto de estudar. Sou proativo, curioso e inquieto, sempre em busca de evoluir e me aprimorar diante da incrível e vasta área de tecnologia.</p>
   <p> -  Gosto de desafios. Dificuldades e situações adversas sempre irão acontecer, mas tento lidar da melhor forma possível com resiliência e dedicação.</p>
+  <p> -  Tenho uma boa relação interpessoal. Busco fazer um bom trabalho em equipe pensando de forma coletiva.</p>
  
   <h3>Hard Skills 💻</h3>
   <img align="center" alt="Peterson-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  

@@ -18,13 +18,9 @@
   <img align="center" alt="Peterson-Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />    
     <br>    
   <div>
-    <div style="display: inline_block"><br> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/peterson-gomes-7b020535/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+    <div style="display: inline_block"><br>  
+  <a href="https://www.linkedin.com/in/peterson-gomes-7b020535/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  </div>
                     
 <!--
 **peterson-007/peterson-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
